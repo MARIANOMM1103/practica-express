@@ -1,0 +1,24 @@
+{
+  "name": "practica-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MARIANOMM1103/practica-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MARIANOMM1103/practica-express/issues"
+  },
+  "homepage": "https://github.com/MARIANOMM1103/practica-express#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
